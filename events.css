@@ -353,9 +353,9 @@ color: rgb(34, 34, 34);
     transition-property: background-color , color;
 color: white;
 }
+
 .para
 {
-    font-family: 'Odibee Sans' !important;
     font-size: 30px !important;
     opacity: .8;
     text-align: justify;
