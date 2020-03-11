@@ -371,6 +371,11 @@ color: rgb(34, 34, 34);
     margin: 0;
     padding: 0 !important;
 }
+
+.register h2 a
+{
+    padding: 0px !important;
+}
 .event_cont .solo_song
 {
     margin: 0;
