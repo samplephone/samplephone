@@ -357,6 +357,11 @@ color: rgb(34, 34, 34);
 {
     display: inline-block;
 }
+
+.register h2 a
+{
+    padding: 0px !important;
+}
 .event_cont .solo_song
 {
     margin: 0;
