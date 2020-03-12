@@ -2692,8 +2692,9 @@ to{ transform:rotate(360deg);}
     .event_cont .solo_dance .solo_dance1
     {
         width: 50%;
-        background-image: url("images/77.jpg");
-        background-position: 55% 70%;
+        background-image: url("images/66.jpg");
+        background-position: 35%;
+        background-size: cover;
     }
     .event_cont .solo_dance .solo_dance1 .title
     {
