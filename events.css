@@ -3171,7 +3171,7 @@ color: rgb(146, 61, 0);
     .event_cont .b_boyeing .b_boyeing1
     {
       width: 50%;
-      background-image: url("images/62.jpg");
+      background-image: url("images/70.jpg");
       background-position:bottom;
       background-size: cover;
 
@@ -3191,7 +3191,7 @@ color: rgb(146, 61, 0);
         margin: 0;
         width: 260px;
         left: calc(100% - 130px);
-        color: rgb(0, 0, 0);
+        color: rgb(157, 236, 250);
         top: 15%;
     }
     .event_cont .b_boyeing .b_boyeing1 .prize
@@ -3248,7 +3248,7 @@ color: rgb(146, 61, 0);
     {
         margin: 0;
         width: 150px;
-        left: calc(100% - 75px);
+        left: calc(100% - 55px);
         color: rgba(231, 8, 138, 0.884);
         top: 12%;
     }
@@ -3257,11 +3257,11 @@ color: rgb(146, 61, 0);
         margin: 0;
         left: calc(100% - 47px);
         top: 14%;
-        border-color: black;
+        border-color: rgb(165, 0, 0);
     }
     .event_cont .choreo_night .choreo_night1 .register h2  a 
     {
-        color: black !important;
+        color: rgb(165, 0, 0) !important;
     }
     .footer
     {
