@@ -1387,31 +1387,39 @@ to{ transform:rotate(360deg);}
     }
     .event_cont .solo_song .solo_song1 .title
     {
-  font-size: 5rem;
+  font-size: 6rem;
   margin: 0;
-  width: 325px;
-  left: 20%;
+  width: 445px;
+  left: 10%;
+  top: 10%;
   color: rgb(214, 212, 212);
   border-top: 3px solid rgb(214, 212, 212);
     }
     .event_cont .solo_song .solo_song1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 25%;
-        color: rgb(78, 76, 76);
+        width: 360px;
+        left: 35%;
+        top: 16%;
+        color: rgb(97, 96, 96);
     }
     .event_cont .solo_song .solo_song1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
+        left: 65%;
+        top: 15%;
         color: rgba(0, 0, 0, 0.815);
     }
     .event_cont .solo_song .solo_song1 .register
     {
         margin: 0;
-        left: 35%;
+        left: calc(50% - 47px);
+        top: 23%;
+    }
+    .event_cont .solo_song .solo_song1 .register a 
+    {
+        color: black;
     }
     .event_cont .solo_song .solo_song2
     {
@@ -1429,41 +1437,45 @@ to{ transform:rotate(360deg);}
     .event_cont .solo_dance .solo_dance1
     {
         width: 100%;
-        background-image: url("images/28.jpg");
-        background-position: center;
+        background-image: url("images/25.jpg");
+        background-position: left bottom;
         background-size: cover;
     }
     .event_cont .solo_dance .solo_dance1 .title
     {
-        font-size: 5rem;
+        font-size: 6rem;
         margin: 0;
-        width: 370px;
-        left: 20%;
-        top: 20%;
+        width: 500px;
+        left: 10%;
+        top: 10%;
         color: rgb(48, 147, 172);
         border-top: 3px solid rgb(48, 147, 172);
     }
     .event_cont .solo_dance .solo_dance1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 25%;
+        width: 360px;
+        left: 5%;
         color: rgba(255, 255, 255, 0.87);
-        top: 27%;
+        top: 15%;
     }
     .event_cont .solo_dance .solo_dance1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
+        left: 40%;
         color: rgba(192, 191, 191, 0.815);
-        top: 30%;
+        top: 16%;
     }
     .event_cont .solo_dance .solo_dance1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 35%;
+        left: calc(50% - 47px);
+        top: 25%;
+    }
+    .event_cont .solo_dance .solo_dance1 .register a 
+    {
+        color: black;
     }
     .event_cont .spot_dance
     {
@@ -1479,35 +1491,39 @@ background-size: cover;
     }
     .event_cont .spot_dance .spot_dance1 .title
     {
-        font-size: 5rem;
+        font-size: 6rem;
         margin: 0;
-        width: 380px;
-        left: 20%;
-        top: 20%;
+        width: 512px;
+        left: 10%;
+        top: 10%;
         color: rgba(255, 255, 255, 0.884);
         border-top: 3px solid rgba(255, 255, 255, 0.884);
     }
     .event_cont .spot_dance .spot_dance1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 25%;
-        color: rgba(97, 131, 139, 0.87);
-        top: 27%;
+        width: 360px;
+        left: 10%;
+        color: rgba(43, 179, 209, 0.87);
+        top: 15%;
     }
     .event_cont .spot_dance .spot_dance1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
+        left: 45%;
         color: rgba(192, 191, 191, 0.815);
-        top: 27%;
+        top: 16%;
     }
     .event_cont .spot_dance .spot_dance1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 30%;
+        left: calc(50% - 47px);
+        top: 18%;
+    }
+    .event_cont .spot_dance .spot_dance1 .register a 
+    {
+        color: black;
     }
     .event_cont .spot_dance .spot_dance2
     {
@@ -1521,41 +1537,46 @@ background-size: cover;
     .event_cont .synchro_dance .synchro_dance1
     {
        width: 100%;
-       background-image: url("images/55.jpg");
-    background-position:bottom;
+       background-image: url("images/54.jpg");
+    background-position:center;
     background-size: cover;
     }
     .event_cont .synchro_dance .synchro_dance1 .title
     {
-        font-size: 5rem;
+        font-size: 6rem;
         margin: 0;
-        width: 510px;
-        left: 20%;
-        top: 20%;
-        color: rgb(21, 31, 73);
-        border-top: 3px solid rgba(21, 31, 73, 0.884);
+        width: 364px;
+        left: 10%;
+        top: 10%;
+        color: rgb(0, 18, 92);
+        border-top: 3px solid rgb(0, 18, 92);
     }
     .event_cont .synchro_dance .synchro_dance1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 25%;
-        color: rgb(0, 94, 23);
-        top: 25%;
+        width: 360px;
+        left: 20%;
+        color: rgb(255, 255, 255);
+        top: 12%;
     }
     .event_cont .synchro_dance .synchro_dance1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
-        color: rgba(0, 0, 0, 0.815);
-        top: 28%;
+        left: 55%;
+        color: rgb(0, 0, 0);
+        top: 13%;
     }
     .event_cont .synchro_dance .synchro_dance1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 30%;
+        left: calc(50% - 47px);
+        top: 17%;
+        border-color: cornflowerblue;
+    }
+    .event_cont .synchro_dance .synchro_dance1 .register a 
+    {
+        color: cornflowerblue;
     }
     .event_cont .synchro_dance .synchro_dance2
     {
@@ -1574,35 +1595,39 @@ background-size: cover;
     }
     .event_cont .fashion_show .fashion_show1 .title
     {
-        font-size: 5rem;
+        font-size: 6rem;
         margin: 0;
-        width: 472px;
-        left: 20%;
-        top: 20%;
+        width: 352px;
+        left: 10%;
+        top: 10%;
         color: rgb(217, 98, 233);
         border-top: 3px solid rgb(217, 98, 233);
     }
     .event_cont .fashion_show .fashion_show1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 25%;
-        color: rgba(252, 252, 252, 0.884);
-        top: 25%;
+        width: 460px;
+        left: 15%;
+        color: rgb(70, 67, 67);
+        top: 12%;
     }
     .event_cont .fashion_show .fashion_show1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
-        color: rgba(235, 46, 46, 0.815);
-        top: 28%;
+        left: 55%;
+        color: rgb(235, 46, 46);
+        top: 13%;
     }
     .event_cont .fashion_show .fashion_show1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 32%;
+        left: calc(50% - 47px);
+        top: 17%;
+    }
+    .event_cont .fashion_show .fashion_show1 .register a 
+    {
+        color: black;
     }
     .event_cont .spot_photography 
     {
@@ -1625,33 +1650,38 @@ background-size: cover;
     {
         font-size: 5rem;
         margin: 0;
-        width: 625px;
+        width: 170px;
         left: 10%;
-        top: 20%;
+        top: 10%;
         color: rgba(255, 255, 255, 0.884);
         border-top: 3px solid rgba(255, 255, 255, 0.884);
     }
     .event_cont .spot_photography .spot_photography1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 25%;
-        color: rgba(252, 252, 252, 0.884);
-        top: 25%;
+        width: 360px;
+        left: 45%;
+        color: rgb(252, 252, 252);
+        top: 12%;
     }
     .event_cont .spot_photography .spot_photography1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
+        left: 75%;
         color: rgba(143, 88, 16, 0.815);
-        top: 28%;
+        top: 13%;
     }
     .event_cont .spot_photography .spot_photography1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 32%;
+        left: calc(50% - 47px);
+        top: 15%;
+        border-color: cornflowerblue;
+    }
+    .event_cont .spot_photography .spot_photography1 .register a 
+    {
+        color: cornflowerblue;
     }
     .event_cont .muscle_mania
     {
@@ -1671,34 +1701,34 @@ background-size: cover;
     }
     .event_cont .muscle_mania .muscle_mania1 .title
     {
-        font-size: 5rem;
+        font-size: 6rem;
         margin: 0;
         width: 478px;
-        left: 20%;
-        top: 20%;
+        left: 10%;
+        top: 8%;
 
     }
     .event_cont .muscle_mania .muscle_mania1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 25%;
+        width: 360px;
+        left: 10%;
         color: rgba(43, 40, 40, 0.884);
-        top: 25%;
+        top: 12%;
     }
     .event_cont .muscle_mania .muscle_mania1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
+        left: 55%;
         color: rgba(16, 124, 143, 0.815);
-        top: 28%;
+        top: 12%;
     }
     .event_cont .muscle_mania .muscle_mania1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 32%;
+        left: calc(50% - 47px);
+        top: 13%;
         border:3px solid white;
     }
     .event_cont .muscle_mania .muscle_mania1 .register a
@@ -1723,35 +1753,39 @@ background-size: cover;
     }
     .event_cont .persona .persona1 .title
     {
-        font-size: 5rem;
+        font-size: 6rem;
         margin: 0;
-        width: 277px;
-        left: 20%;
-        top: 20%;
+        width: 360px;
+        left: 10%;
+        top: 10%;
         color: rgba(139, 71, 15, 0.904);
         border-top: 3px solid rgba(139, 71, 15, 0.904);
     }
     .event_cont .persona .persona1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 25%;
-        color: rgba(0, 0, 0, 0.904);
-        top: 25%;
+        width: 360px;
+        left: 10%;
+        color: rgb(0, 0, 0);
+        top: 14%;
     }
     .event_cont .persona .persona1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
-        color: rgba(59, 12, 12, 0.884);
-        top: 28%;
+        left: 55%;
+        color: rgb(59, 12, 12);
+        top: 15%;
     }
     .event_cont .persona .persona1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 32%;
+        left: calc(50% - 47px);
+        top: 18%;
+    }
+    .event_cont .persona .persona1 .register a 
+    {
+        color: black;
     }
     .event_cont .unplugged
     {
@@ -1765,35 +1799,35 @@ background-size: cover;
     }
     .event_cont .unplugged .unplugged1 .title
     {
-        font-size: 5rem;
+        font-size: 6rem;
         margin: 0;
-        width:372px;
-        left: 20%;
-        top: 20%;
+        width: 488px;
+        left: 10%;
+        top: 10%;
         color: rgba(168, 0, 0, 0.904);
         border-top: 3px solid rgba(168, 0, 0, 0.904);
     }
     .event_cont .unplugged .unplugged1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 25%;
+        width: 360px;
+        left: 10%;
         color: rgba(255, 255, 255, 0.822);
-        top: 25%;
+        top: 16%;
     }
     .event_cont .unplugged .unplugged1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
+        left: 45%;
         color: rgba(117, 202, 223, 0.884);
-        top: 28%;
+        top: 20%;
     }
     .event_cont .unplugged .unplugged1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 32%;
+        left: calc(50% - 47px);
+        top: 25%;
     }
     .event_cont .filler_dance
     {
@@ -1813,35 +1847,39 @@ background-size: cover;
     }
     .event_cont .filler_dance .filler_dance1 .title
     {
-        font-size: 5rem;
+        font-size: 6rem;
         margin: 0;
-        width: 409px;
-        left: 20%;
-        top: 20%;
-        color: rgba(4, 8, 34, 0.904);
-        border-top: 3px solid rgba(4, 8, 34, 0.904);
+        width: 515px;
+        left: 10%;
+        top: 10%;
+        color: rgba(0, 12, 94, 0.904);
+        border-top: 3px solid rgba(0, 12, 94, 0.904);
     }
     .event_cont .filler_dance .filler_dance1 .para
     {
         margin: 0;
-        width: 260px;
+        width: 360px;
         left: 25%;
         color: rgb(0, 0, 0);
-        top: 25%;
+        top: 12%;
     }
     .event_cont .filler_dance .filler_dance1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
-        color: rgba(224, 58, 58, 0.884);
-        top: 28%;
+        left: 65%;
+        color: rgb(224, 58, 58);
+        top: 12%;
     }
     .event_cont .filler_dance .filler_dance1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 32%;
+        left: calc(50% - 47px);
+        top: 15%;
+    }
+    .event_cont .filler_dance .filler_dance1 .register a 
+    {
+         color: black;
     }
     .event_cont .b_boyeing
     {
@@ -1862,10 +1900,10 @@ background-size: cover;
     }
     .event_cont .b_boyeing .b_boyeing1 .title
     {
-        font-size: 5rem;
+        font-size: 6rem;
         margin: 0;
-        width: 345px;
-        left: 20%;
+        width: 450px;
+        left: 10%;
         top: 10%;
         color: rgba(1, 39, 17, 0.904);
         border-top: 3px solid rgba(1, 39, 17, 0.904);
@@ -1874,9 +1912,9 @@ background-size: cover;
     {
         margin: 0;
         width: 260px;
-        left: 25%;
-        color: rgb(0, 0, 0);
-        top: 20%;
+        left: 15%;
+        color: rgb(0, 154, 192);
+        top: 13%;
     }
     .event_cont .b_boyeing .b_boyeing1 .prize
     {
@@ -1884,13 +1922,18 @@ background-size: cover;
         width: 150px;
         left: 35%;
         color: rgba(163, 163, 163, 0.884);
-        top: 22%;
+        top: 16%;
     }
     .event_cont .b_boyeing .b_boyeing1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 28%;
+        left: calc(50% - 47px);
+        top: 19%;
+        border-color: rgb(18, 77, 18);
+    }
+    .event_cont .b_boyeing .b_boyeing1 .register a 
+    {
+        color: rgb(18, 77, 18);
     }
     .event_cont .choreo_night
     {
@@ -1906,10 +1949,10 @@ background-size: cover;
     }
     .event_cont .choreo_night .choreo_night1 .title
     {
-        font-size: 5rem;
+        font-size: 6rem;
         margin: 0;
-        width: 452px;
-        left: 20%;
+        width: 585px;
+        left: 10%;
         top: 10%;
         color: rgba(53, 33, 3, 0.904);
         border-top: 3px solid rgba(53, 33, 3, 0.904);
@@ -1917,24 +1960,25 @@ background-size: cover;
     .event_cont .choreo_night .choreo_night1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 25%;
-        color: rgba(255, 255, 255, 0.822);
-        top: 20%;
+        width: 360px;
+        left: 10%;
+        color: rgb(255, 255, 255);
+        top: 15%;
     }
     .event_cont .choreo_night .choreo_night1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
+        left: 45%;
         color: rgba(163, 163, 163, 0.884);
-        top: 22%;
+        top: 16%;
     }
     .event_cont .choreo_night .choreo_night1 .register
     {
         margin: 0;
         left: 35% ;
-        top: 28%;
+        top: 18%;
+        left: calc(50% - 47px);
     }
 }
 @media screen and (max-width: 700px)
@@ -2002,15 +2046,16 @@ background-size: cover;
             width: 100%;
             background-image: url("images/18.jpg");
             background-size: cover;
-            background-position: center;
+            background-position: bottom;
     
         }
         .event_cont .solo_song .solo_song1 .title
         {
       font-size: 5rem;
       margin: 0;
-      width: 325px;
-      left: 10%;
+      width: 365px;
+      left: calc(50% - 112px);
+      top: 15%;
       color: rgb(214, 212, 212);
       border-top: 3px solid rgb(214, 212, 212);
         }
@@ -2018,20 +2063,27 @@ background-size: cover;
         {
             margin: 0;
             width: 260px;
-            left: 15%;
+            left: calc(50% - 30px);
+            top: 20%;
             color: rgb(78, 76, 76);
         }
         .event_cont .solo_song .solo_song1 .prize
         {
             margin: 0;
             width: 150px;
-            left: 35%;
+            left: 45%;
+            top: 22%;
             color: rgba(0, 0, 0, 0.815);
         }
         .event_cont .solo_song .solo_song1 .register
         {
             margin: 0;
-            left: 35%;
+            left: calc(50% - 47px);
+            top: 25%;
+        }
+        .event_cont .solo_song .solo_song1 .register a 
+        {
+            color: black;
         }
         .event_cont .solo_song .solo_song2
         {
@@ -2049,17 +2101,17 @@ background-size: cover;
     .event_cont .solo_dance .solo_dance1
     {
         width: 100%;
-        background-image: url("images/28.jpg");
-        background-position: center;
+        background-image: url("images/25.jpg");
+        background-position: left bottom;
         background-size: cover;
     }
     .event_cont .solo_dance .solo_dance1 .title
     {
         font-size: 5rem;
         margin: 0;
-        width: 370px;
-        left: 10%;
-        top: 20%;
+        width: 413px;
+        left: calc(50% - 256px);
+        top: 15%;
         color: rgb(48, 147, 172);
         border-top: 3px solid rgb(48, 147, 172);
     }
@@ -2067,23 +2119,27 @@ background-size: cover;
     {
         margin: 0;
         width: 260px;
-        left: 15%;
-        color: rgb(0, 0, 0);
-        top: 27%;
+        left: 7%;
+        color: rgb(247, 174, 174);
+        top: 20%;
     }
     .event_cont .solo_dance .solo_dance1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
-        color: rgba(192, 191, 191, 0.815);
-        top: 30%;
+        left: 23%;
+        color: rgb(226, 19, 19);
+        top: 22%;
     }
     .event_cont .solo_dance .solo_dance1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 35%;
+        left: calc(50% - 47px);
+        top: 23%;
+    }
+    .event_cont .solo_dance .solo_dance1 .register a 
+    {
+        color: black;
     }
     .event_cont .spot_dance
     {
@@ -2101,33 +2157,38 @@ background-size: cover;
     {
         font-size: 5rem;
         margin: 0;
-        width: 380px;
-        left: 10%;
-        top: 20%;
+        width: 425px;
+        left: calc(50% - 142px);
+        top: 15%;
         color: rgba(255, 255, 255, 0.884);
         border-top: 3px solid rgba(255, 255, 255, 0.884);
     }
     .event_cont .spot_dance .spot_dance1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 15%;
-        color: rgba(97, 131, 139, 0.87);
-        top: 27%;
+        width: 350px;
+        left: 40%;
+        color: rgba(19, 195, 235, 0.87);
+        top: 20%;
     }
     .event_cont .spot_dance .spot_dance1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
+        left: 65%;
         color: rgba(192, 191, 191, 0.815);
-        top: 27%;
+        top: 21%;
     }
     .event_cont .spot_dance .spot_dance1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 30%;
+        left: calc(50% - 47px);
+        top: 20%;
+        border-color: rgb(182, 64, 64);
+    }
+    .event_cont .spot_dance .spot_dance1 .register a 
+    {
+        color: rgb(182, 64, 64);
     }
     .event_cont .spot_dance .spot_dance2
     {
@@ -2141,7 +2202,7 @@ background-size: cover;
     .event_cont .synchro_dance .synchro_dance1
     {
        width: 100%;
-       background-image: url("images/55.jpg");
+       background-image: url("images/54.jpg");
     background-position:right;
     background-size: cover;
     }
@@ -2149,18 +2210,18 @@ background-size: cover;
     {
         font-size: 5rem;
         margin: 0;
-        width: 510px;
-        left: 10%;
+        width: 306px;
+        left: 15%;
         top: 10%;
-        color: rgba(21, 31, 73, 0.884);
-        border-top: 3px solid rgba(21, 31, 73, 0.884);
+        color: rgba(150, 30, 0, 0.884);
+        border-top: 3px solid rgba(150, 30, 0, 0.884);
     }
     .event_cont .synchro_dance .synchro_dance1 .para
     {
         margin: 0;
-        width: 260px;
+        width: 350px;
         left: 10%;
-        color: rgb(8, 102, 105);
+        color: rgb(245, 245, 245);
         top: 15%;
     }
     .event_cont .synchro_dance .synchro_dance1 .prize
@@ -2168,14 +2229,19 @@ background-size: cover;
         margin: 0;
         width: 150px;
         left: 35%;
-        color: rgba(0, 0, 0, 0.815);
+        color: rgb(0, 0, 0);
         top: 15%;
     }
     .event_cont .synchro_dance .synchro_dance1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 20%;
+        left: calc(50% - 47px);
+        top: 17%;
+        border-color: rgb(39, 255, 154);
+    }
+    .event_cont .synchro_dance .synchro_dance1 .register a 
+    {
+        color: rgb(39, 255, 154);
     }
     .event_cont .synchro_dance .synchro_dance2
     {
@@ -2196,33 +2262,38 @@ background-size: cover;
     {
         font-size: 5rem;
         margin: 0;
-        width: 472px;
-        left: 10%;
+        width: 295px;
+        left: 15%;
         top: 10%;
-        color: rgba(235, 197, 240, 0.884);
-        border-top: 3px solid rgba(235, 197, 240, 0.884);
+        color: rgba(223, 152, 233, 0.884);
+        border-top: 3px solid rgba(223, 152, 233, 0.884);
     }
     .event_cont .fashion_show .fashion_show1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 15%;
-        color: rgba(252, 252, 252, 0.884);
+        width: 320px;
+        left: 10%;
+        color: rgb(109, 105, 105);
         top: 15%;
     }
     .event_cont .fashion_show .fashion_show1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
-        color: rgba(235, 46, 46, 0.815);
-        top: 15%;
+        left: 45%;
+        color: rgb(255, 36, 36);
+        top: 12%;
     }
     .event_cont .fashion_show .fashion_show1 .register
     {
         margin: 0;
         left: 35% ;
-        top: 20%;
+        top: 14%;
+        left: calc(50% - 47px);
+    }
+    .event_cont .fashion_show .fashion_show1 .register a 
+    {
+        color: black;
     }
     .event_cont .spot_photography 
     {
@@ -2245,8 +2316,8 @@ background-size: cover;
     {
         font-size: 5rem;
         margin: 0;
-        width: 625px;
-        left: 0%;
+        width: 175px;
+        left: 5%;
         top: 10%;
         color: rgba(255, 255, 255, 0.884);
         border-top: 3px solid rgba(255, 255, 255, 0.884);
@@ -2254,8 +2325,8 @@ background-size: cover;
     .event_cont .spot_photography .spot_photography1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 15%;
+        width: 360px;
+        left: 45%;
         color: rgba(252, 252, 252, 0.884);
         top: 15%;
     }
@@ -2263,15 +2334,21 @@ background-size: cover;
     {
         margin: 0;
         width: 150px;
-        left: 35%;
-        color: rgba(143, 88, 16, 0.815);
+        left: 75%;
+        color: rgb(160, 98, 16);
         top: 15%;
     }
     .event_cont .spot_photography .spot_photography1 .register
     {
         margin: 0;
         left: 35% ;
-        top: 20%;
+        top: 15%;
+        left: calc(50% - 47px);
+        border-color: rgb(13, 90, 109);
+    }
+    .event_cont .spot_photography .spot_photography1 .register a 
+    {
+        color: rgb(13, 90, 109);
     }
     .event_cont .muscle_mania
     {
@@ -2302,16 +2379,16 @@ background-size: cover;
     .event_cont .muscle_mania .muscle_mania1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 15%;
-        color: rgba(43, 40, 40, 0.884);
+        width: 360px;
+        left: 10%;
+        color: rgba(66, 66, 66, 0.884);
         top: 15%;
     }
     .event_cont .muscle_mania .muscle_mania1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
+        left: 55%;
         color: rgba(16, 124, 143, 0.815);
         top: 15%;
     }
@@ -2321,6 +2398,7 @@ background-size: cover;
         left: 35% ;
         top: 20%;
         border:3px solid white;
+        left: calc(50% - 47px);
     }
     .event_cont .muscle_mania .muscle_mania1 .register a
     {
@@ -2346,8 +2424,8 @@ background-size: cover;
     {
         font-size: 5rem;
         margin: 0;
-        width: 277px;
-        left: 10%;
+        width: 305px;
+    left: 40%;
         top: 10%;
         color: rgba(139, 71, 15, 0.904);
         border-top: 3px solid rgba(139, 71, 15, 0.904);
@@ -2355,24 +2433,29 @@ background-size: cover;
     .event_cont .persona .persona1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 15%;
-        color: rgba(0, 0, 0, 0.904);
+        width: 360px;
+        left: 10%;
+        color: rgb(0, 0, 0);
         top: 15%;
     }
     .event_cont .persona .persona1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
-        color: rgba(59, 12, 12, 0.884);
-        top: 15%;
+        left: 45%;
+        color: rgb(59, 12, 12);
+        top: 19%;
     }
     .event_cont .persona .persona1 .register
     {
         margin: 0;
         left: 35% ;
-        top: 20%;
+        top: 21%;
+        left: calc(50% - 47px);
+    }
+    .event_cont .persona .persona1 .register a 
+    {
+        color: black;
     }
     .event_cont .unplugged
     {
@@ -2388,7 +2471,7 @@ background-size: cover;
     {
         font-size: 5rem;
         margin: 0;
-        width:372px;
+        width: 407px;
         left: 10%;
         top: 10%;
         color: rgba(168, 0, 0, 0.904);
@@ -2397,10 +2480,10 @@ background-size: cover;
     .event_cont .unplugged .unplugged1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 15%;
+        width: 300px;
+        left: 10%;
         color: rgba(255, 255, 255, 0.822);
-        top: 20%;
+        top: 17%;
     }
     .event_cont .unplugged .unplugged1 .prize
     {
@@ -2408,13 +2491,14 @@ background-size: cover;
         width: 150px;
         left: 35%;
         color: rgba(117, 202, 223, 0.884);
-        top: 22%;
+        top: 20%;
     }
     .event_cont .unplugged .unplugged1 .register
     {
         margin: 0;
         left: 35% ;
-        top: 28%;
+        top: 25%;
+        left: calc(50% - 47px);
     }
     .event_cont .filler_dance
     {
@@ -2436,33 +2520,38 @@ background-size: cover;
     {
         font-size: 5rem;
         margin: 0;
-        width: 409px;
-        left: 10%;
+        width: 184px;
+        left: 30%;
         top: 10%;
-        color: rgba(4, 8, 34, 0.904);
-        border-top: 3px solid rgba(4, 8, 34, 0.904);
+        color: rgba(2, 12, 77, 0.904);
+        border-top: 3px solid rgba(2, 12, 77, 0.904);
     }
     .event_cont .filler_dance .filler_dance1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 15%;
-        color: rgba(0, 0, 0, 0.822);
-        top: 20%;
+        width: 360px;
+        left: 35%;
+        color: rgb(0, 0, 0);
+        top: 15%;
     }
     .event_cont .filler_dance .filler_dance1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
+        left: 75%;
         color: rgba(224, 58, 58, 0.884);
-        top: 22%;
+        top: 16%;
     }
     .event_cont .filler_dance .filler_dance1 .register
     {
         margin: 0;
         left: 35% ;
-        top: 28%;
+        top: 19%;
+        left: calc(50% - 47px);
+    }
+    .event_cont .filler_dance .filler_dance1 .register a 
+    {
+        color: black;
     }
     .event_cont .b_boyeing
     {
@@ -2485,7 +2574,7 @@ background-size: cover;
     {
         font-size: 5rem;
         margin: 0;
-        width: 345px;
+        width: 377px;
         left: 10%;
         top: 10%;
         color: rgba(1, 39, 17, 0.904);
@@ -2494,10 +2583,10 @@ background-size: cover;
     .event_cont .b_boyeing .b_boyeing1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 10%;
-        color: rgba(0, 0, 0, 0.822);
-        top: 20%;
+        width: 360px;
+        left: 3%;
+        color: rgb(74, 183, 202);
+        top: 17%;
     }
     .event_cont .b_boyeing .b_boyeing1 .prize
     {
@@ -2505,13 +2594,19 @@ background-size: cover;
         width: 150px;
         left: 35%;
         color: rgba(163, 163, 163, 0.884);
-        top: 22%;
+        top: 20%;
     }
     .event_cont .b_boyeing .b_boyeing1 .register
     {
         margin: 0;
         left: 35% ;
-        top: 28%;
+        top: 23%;
+        left: calc(50% - 47px);
+        border-color: rgb(25, 94, 16);
+    }
+    .event_cont .b_boyeing .b_boyeing1 .register a 
+    {
+        color: rgb(25, 94, 16);
     }
     .event_cont .choreo_night
     {
@@ -2529,8 +2624,8 @@ background-size: cover;
     {
         font-size: 5rem;
         margin: 0;
-        width: 452px;
-        left: 10%;
+        width: 270px;
+        left: 20%;
         top: 10%;
         color: rgba(53, 33, 3, 0.904);
         border-top: 3px solid rgba(53, 33, 3, 0.904);
@@ -2538,24 +2633,25 @@ background-size: cover;
     .event_cont .choreo_night .choreo_night1 .para
     {
         margin: 0;
-        width: 260px;
-        left: 15%;
+        width: 400px;
+        left: 5%;
         color: rgba(255, 255, 255, 0.822);
-        top: 20%;
+        top: 15%;
     }
     .event_cont .choreo_night .choreo_night1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 35%;
+        left: 60%;
         color: rgba(163, 163, 163, 0.884);
-        top: 22%;
+        top: 15%;
     }
     .event_cont .choreo_night .choreo_night1 .register
     {
         margin: 0;
         left: 35% ;
-        top: 28%;
+        top: 16%;
+        left: calc(50% - 47px);
     }
     }
 @media screen and (max-width: 600px)
