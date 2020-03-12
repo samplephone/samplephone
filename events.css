@@ -2759,8 +2759,8 @@ background-position: 40% 0;
     .event_cont .spot_dance .spot_dance1 .para
     {
         margin: 0;
-        width: 260px;
-        left: calc(100% - 130px);
+        width: 280px;
+        left: calc(100% - 140px);
         color: rgb(1, 109, 37);
         top: 15%;
     }
@@ -2776,7 +2776,7 @@ background-position: 40% 0;
     {
         margin: 0;
         left: calc(100% - 47px);
-        top: 20%;
+        top: 18%;
         border: 2px solid rgb(90, 78, 7);
     }
     .event_cont .spot_dance .spot_dance1 .register a
@@ -2867,8 +2867,8 @@ background-position: 40% 0;
     .event_cont .fashion_show .fashion_show1 .para
     {
         margin: 0;
-        width: 260px;
-        left: calc(100% - 130px);
+        width: 300px;
+        left: calc(100% - 150px);
         color: rgb(44, 43, 43);
         top: 11%;
     }
@@ -2922,8 +2922,8 @@ background-position: 40% 0;
     .event_cont .spot_photography .spot_photography1 .para
     {
         margin: 0;
-        width: 260px;
-        left: calc(100% - 130px);
+        width: 300px;
+        left: calc(100% - 150px);
         color: rgba(4, 123, 128, 0.884);
         top: 7%;
     }
@@ -2976,8 +2976,8 @@ color: rgb(146, 61, 0);
     .event_cont .muscle_mania .muscle_mania1 .para
     {
         margin: 0;
-        width: 260px;
-        left: calc(100% - 130px);
+        width: 300px;
+        left: calc(100% - 150px);
         color: rgba(97, 97, 97, 0.884);
         top: 10%;
     }
@@ -3232,17 +3232,17 @@ color: rgb(146, 61, 0);
         margin: 0;
         width: 300px;
         left: calc(100% - 150px);
-        top: 10%;
+        top: 8%;
         color: rgba(53, 33, 3, 0.904);
         border-top: 3px solid rgba(53, 33, 3, 0.904);
     }
     .event_cont .choreo_night .choreo_night1 .para
     {
         margin: 0;
-        width: 280px;
-        left: calc(100% - 140px);
+        width: 300px;
+        left: calc(100% - 150px);
         color: rgb(0, 107, 71);
-        top: 15%;
+        top: 12%;
     }
     .event_cont .choreo_night .choreo_night1 .prize
     {
@@ -3250,13 +3250,13 @@ color: rgb(146, 61, 0);
         width: 150px;
         left: calc(100% - 75px);
         color: rgba(231, 8, 138, 0.884);
-        top: 15%;
+        top: 12%;
     }
     .event_cont .choreo_night .choreo_night1 .register
     {
         margin: 0;
         left: calc(100% - 47px);
-        top: 16%;
+        top: 14%;
         border-color: black;
     }
     .event_cont .choreo_night .choreo_night1 .register h2  a 
