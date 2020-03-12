@@ -2791,47 +2791,50 @@ background-position: 40% 0;
     {
         margin: 0;
         margin-top: 1px;
-        background-color: black;
-        z-index: 2;
+        border-bottom:1px solid black ;
     }
     .event_cont .synchro_dance .synchro_dance1
     {
-       width: 100%;
-       background-image: url("images/55.jpg");
-    background-position:right;
+       width: 50%;
+       background-image: url("images/65.jpg");
+    background-position: center;
     background-size: cover;
     }
     .event_cont .synchro_dance .synchro_dance1 .title
     {
         font-size: 3rem;
         margin: 0;
-        width: 170px;
-        left: 20%;
-        top: 10%;
-        color: rgba(21, 31, 73, 0.884);
-        border-top: 3px solid rgba(21, 31, 73, 0.884);
+        width: 180px;
+        left: calc(100% - 90px);
+        top: 8%;
+        color: rgba(128, 128, 128, 0.884);
+        border-top: 3px solid rgba(128, 128, 128, 0.884);
     }
     .event_cont .synchro_dance .synchro_dance1 .para
     {
         margin: 0;
         width: 260px;
-        left: 10%;
-        color: rgb(110, 15, 15);
-        top: 15%;
+        left: calc(100% - 130px);
+        color: rgb(145, 118, 0);
+        top: 12%;
     }
     .event_cont .synchro_dance .synchro_dance1 .prize
     {
         margin: 0;
         width: 150px;
-        left: 25%;
-        color: rgba(0, 0, 0, 0.815);
+        left: calc(100% - 60px);
+        color: rgb(48, 233, 224);
         top: 15%;
     }
     .event_cont .synchro_dance .synchro_dance1 .register
     {
         margin: 0;
-        left: 35% ;
-        top: 20%;
+        left: calc(100% - 47px);
+        top: 16%;
+    }
+    .event_cont .synchro_dance .synchro_dance1 .register a 
+    {
+        color: black;
     }
     .event_cont .synchro_dance .synchro_dance2
     {
