@@ -1300,6 +1300,10 @@ margin: 0;
     background-size: cover;
     display: flex;
 }
+.register h2 a
+{
+    color: black;
+}
 
 .footer
 {
