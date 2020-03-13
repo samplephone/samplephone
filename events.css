@@ -2792,8 +2792,8 @@ to{ transform:rotate(360deg);}
     .event_cont .solo_dance .solo_dance1
     {
         width: 50%;
-        background-image: url("images/66.jpg");
-        background-position: 35%;
+        background-image: url("images/77.jpg");
+        background-position: 57%;
         background-size: cover;
     }
     .event_cont .solo_dance .solo_dance1 .title
@@ -2930,7 +2930,8 @@ background-position: 40% 0;
     {
         margin: 0;
         left: calc(100% - 47px);
-        top: 16%;
+        top: 17%;
+        border-color: black;
     }
     .event_cont .synchro_dance .synchro_dance1 .register a 
     {
@@ -3307,6 +3308,7 @@ color: rgb(146, 61, 0);
         margin: 0;
         left: calc(100% - 47px);
         top: 20%;
+        border-color: black;
     }
     .event_cont .b_boyeing .b_boyeing1 .register a 
     {
