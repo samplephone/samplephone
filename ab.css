@@ -1,0 +1,23 @@
+body
+{
+    width: 100%;
+    height: 100vh;
+}
+.ab
+{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(3, 241, 222);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+p
+{
+    justify-content: center;
+}
+h1
+{
+    font-size: 40px;
+}
